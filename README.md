@@ -29,7 +29,7 @@ ctrl + c
 ```
 ## Configurazione Laravel
 ```bash
-npm remove postcss
+npm remove postcss.
 
 #installo dbal per migration e seeder.
 composer require doctrine/dbal
