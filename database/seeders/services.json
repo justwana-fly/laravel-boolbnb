@@ -1,0 +1,55 @@
+[
+    {
+      "name": "Parking",
+      "icon": "icons/parking.png"
+    },
+    {
+      "name": "WiFi",
+      "icon": "icons/wifi.png"
+    },
+    {
+      "name": "Kitchen",
+      "icon": "icons/kitchen.png"
+    },
+    {
+      "name": "Swimming Pool",
+      "icon": "icons/swimming.png"
+    },
+    {
+      "name": "Air Conditioning",
+      "icon": "icons/air-conditioner.png"
+    },
+    {
+      "name": "Heating",
+      "icon": "icons/heater.png"
+    },
+    {
+      "name": "Dryer",
+      "icon": "icons/hairdryer.png"
+    },
+    {
+      "name": "Gym",
+      "icon": "icons/weight.png"
+    },
+    {
+      "name": "Elevator",
+      "icon": "icons/elevator.png"
+    },
+    {
+      "name": "Pet Friendly",
+      "icon": "icons/veterinary.png"
+    },
+    {
+      "name": "Smoke Detector",
+      "icon": "icons/smoke-detector.png"
+    },
+    {
+      "name": "Laptop-friendly Workspace",
+      "icon": "icons/laptop.png"
+    },
+    {
+      "name": "Cable TV",
+      "icon": "icons/television.png"
+    }
+  ]
+  
